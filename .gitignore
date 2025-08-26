@@ -2,3 +2,10 @@ venv/
 *.pyc
 __pycache__/
 .env
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+service-account-key.json
+infra/.terraform.lock.hcl
+infra/terraform.tfvars
+infra/.terraform/*
+service-account-key.json
